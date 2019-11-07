@@ -109,7 +109,7 @@ SELECT 1,'rnbqk2r/ppppbppp/5n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR' union all
 SELECT 2,'rnbqk2r/ppppbppp/5n2/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR' union all
 SELECT 3,'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR' union all
 SELECT 4,'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR' union all
-SELECT 5,'r7/pppppppp/8/8/8/8/PPPPPPPP/R7' 
+SELECT 5,'r7/pppppppp/8/8/8/8/PPPPPPPP/R7' union all
 SELECT 6,'r7/8/8/8/8/8/8/Q7' 
 SELECT * FROM TC59_Layout
 
