@@ -1,1 +1,1 @@
-# TSQL-Challenges
+# TSQL-Challenges - trochę wybranego mięska z wykopaliska
