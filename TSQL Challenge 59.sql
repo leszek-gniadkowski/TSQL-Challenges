@@ -159,7 +159,7 @@ go 10000
 
 SELECT * FROM TC59_Movement
 
--- Soltution by Leszek Gniadkowski
+-- Solution by Leszek Gniadkowski
 
 ;with cte1 as
 (
