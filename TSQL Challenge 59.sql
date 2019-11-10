@@ -1,5 +1,5 @@
 /*
-TSQL Challenges
+TSQL Challenges 
 https://web.archive.org/web/20170122174949/http://beyondrelational.com/puzzles/tsql/default.aspx
 
 TSQL Challenge 59 - Playing Chess in TSQL – Part 2
